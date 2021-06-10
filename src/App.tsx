@@ -20,13 +20,13 @@ export default function App() {
         <p className="font-mono px-6 w-15"> {count}</p>
         <Button
           onClick={() =>
-            setCount((prevState) => prevState - 1)
+            setCount((prevState) => prevState + 1)
           }
           label={'-'}
         />
       </div>
       <div className="absolute bottom-0">
-        Version 0.0.55
+        Version 0.0.56
       </div>
     </div>
   );
