@@ -25,6 +25,9 @@ export default function App() {
           label={'-'}
         />
       </div>
+      <div className="absolute bottom-0">
+        Version 0.0.1
+      </div>
     </div>
   );
 }

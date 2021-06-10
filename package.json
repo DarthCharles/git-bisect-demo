@@ -1,7 +1,7 @@
 {
-  "name": "tailwind-react-ts",
+  "name": "git-bisect-demo",
   "version": "1.0.0",
-  "description": "Tailwind React starter",
+  "description": "Git bisect demo",
   "keywords": [
     "typescript",
     "react",
@@ -13,7 +13,7 @@
     "classnames": "2.3.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.4.1"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
