@@ -26,7 +26,7 @@ export default function App() {
         />
       </div>
       <div className="absolute bottom-0">
-        Version 0.0.31
+        Version 0.0.32
       </div>
     </div>
   );
